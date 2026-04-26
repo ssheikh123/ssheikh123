@@ -2,7 +2,7 @@
 
 I’m a Computer Science student in the Honors College at the University of Illinois Chicago, focused on building practical AI systems that solve real-world problems.
 
-I’ve worked on projects ranging from food recognition apps to bird vocalization classification, where I analyzed 17,000+ audio samples and experimented with multiple machine learning models. I enjoy taking ideas from concept to something people can actually use, especially when it involves computer vision or audio-based AI.
+I’ve worked on projects ranging from food recognition apps (pinned project!) to bird vocalization classification, where I analyzed 17,000+ audio samples and experimented with multiple machine learning models. I enjoy taking ideas from concept to something people can actually use, especially when it involves computer vision or audio-based AI.
 
 Right now, I’m exploring deeper applications of machine learning and software development, while continuing to build projects that blend technical depth with real-world impact.
 
